@@ -1,0 +1,12 @@
+[
+  {
+    "id": "288f9356-85de-47a5-b4b9-db30c01433f8",
+    "title": "My New Quiz",
+    "slug": "my-new-quiz",
+    "description": "Enter a description for your quiz",
+    "created_at": "2025-08-11T04:18:29.265128",
+    "updated_at": "2025-08-11T04:18:29.265187",
+    "questions_count": 1,
+    "file_path": "quizzes/my-new-quiz-288f9356-85de-47a5-b4b9-db30c01433f8.json"
+  }
+]

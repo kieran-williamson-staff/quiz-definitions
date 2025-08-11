@@ -1,5 +1,16 @@
 [
   {
+    "id": "dc4da767-9d67-4593-b754-149f1ae3ae40",
+    "title": "My New Quiz",
+    "slug": "my-new-quiz",
+    "description": "Enter a description for your quiz",
+    "created_at": "2025-08-11T21:22:39.359745",
+    "updated_at": "2025-08-11T21:22:39.359751",
+    "questions_count": 1,
+    "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
+    "file_path": "quizzes/my-new-quiz-dc4da767-9d67-4593-b754-149f1ae3ae40.json"
+  },
+  {
     "id": "9f45b05a-720c-49ed-98bc-249625b4b92f",
     "title": "My New Quiz",
     "slug": "my-new-quiz",

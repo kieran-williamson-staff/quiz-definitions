@@ -1,0 +1,42 @@
+{
+  "title": "My New Quiz",
+  "description": "Enter a description for your quiz",
+  "questions_per_page": 5,
+  "scoring_mode": "simple",
+  "theme": {
+    "primary_color": "#f1c40f",
+    "bg_color": "#faecea",
+    "text_color": "#2a2a2a",
+    "success_color": "#4caf50",
+    "font_family": "Figtree"
+  },
+  "categories": [
+    "General Knowledge"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "This is a sample question - please edit or replace",
+      "category": "General Knowledge",
+      "weight": 1,
+      "reverse": false
+    }
+  ],
+  "results": [
+    {
+      "title": "Great Job!",
+      "min": 0,
+      "max": 100,
+      "minScore": 0,
+      "maxScore": 100,
+      "description": "You completed the quiz successfully!",
+      "image": "",
+      "className": "great-result"
+    }
+  ],
+  "id": "03a1d276-d18f-437a-9410-60fd46751b22",
+  "slug": "my-new-quiz",
+  "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
+  "created_at": "2025-08-11T04:37:59.632494",
+  "updated_at": "2025-08-11T04:37:59.632745"
+}

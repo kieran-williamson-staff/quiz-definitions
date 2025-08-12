@@ -104,7 +104,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-12T22:30:51.085019",
+  "updated_at": "2025-08-12T22:31:31.506377",
   "scale": {
     "type": "frequency",
     "labels": [
@@ -121,42 +121,42 @@
     "positions": {
       "Power distance and hierarchy awareness": {
         "score": {
-          "x": 50,
-          "y": 40
+          "x": 21.317182268415177,
+          "y": 31.522525553597617
         },
         "description": {
-          "x": 50,
-          "y": 60
+          "x": 34.600390288465306,
+          "y": 41.21396140604629
         }
       },
       "Communication style preferences": {
         "score": {
-          "x": 50,
-          "y": 40
+          "x": 70.56530256916706,
+          "y": 31.7832817465572
         },
         "description": {
-          "x": 50,
-          "y": 60
+          "x": 57.40740783232495,
+          "y": 41.86585188844524
         }
       },
       "Time and relationship orientation": {
         "score": {
-          "x": 50,
-          "y": 40
+          "x": 19.061543170670816,
+          "y": 61.63986584042943
         },
         "description": {
-          "x": 50,
-          "y": 60
+          "x": 35.226956704505405,
+          "y": 69.89714263160039
         }
       },
       "Decision-making approach": {
         "score": {
-          "x": 50,
-          "y": 40
+          "x": 72.57031510049538,
+          "y": 61.11835345451026
         },
         "description": {
-          "x": 50,
-          "y": 60
+          "x": 57.658034398740995,
+          "y": 69.11487405272165
         }
       }
     },

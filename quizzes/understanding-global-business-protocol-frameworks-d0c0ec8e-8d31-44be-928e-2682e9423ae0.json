@@ -19,7 +19,7 @@
   "questions": [
     {
       "id": 1,
-      "text": "I feel comfortable challenging my supervisor&amp;#x27;s ideas in a meeting",
+      "text": "I feel comfortable challenging my supervisor&amp;amp;#x27;s ideas in a meeting",
       "category": "Power distance and hierarchy awareness",
       "weight": 1,
       "reverse": false
@@ -41,5 +41,5 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-12T21:38:20.114361"
+  "updated_at": "2025-08-12T21:39:03.509129"
 }

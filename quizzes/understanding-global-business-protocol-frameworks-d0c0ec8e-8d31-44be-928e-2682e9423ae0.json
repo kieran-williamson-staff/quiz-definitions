@@ -55,35 +55,35 @@
     {
       "id": 6,
       "text": "I prefer direct, explicit communication over subtle hints",
-      "category": "",
+      "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
     },
     {
       "id": 7,
       "text": "I say \"no\" clearly when I disagree with something",
-      "category": "",
+      "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
     },
     {
       "id": 8,
       "text": "I believe silence in meetings means agreement",
-      "category": "",
+      "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
     },
     {
       "id": 9,
       "text": "I give feedback immediately rather than waiting for the right moment",
-      "category": "",
+      "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
     },
     {
       "id": 10,
       "text": "I focus on facts rather than relationship context when presenting",
-      "category": "",
+      "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
     }
@@ -104,7 +104,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-12T22:29:51.269169",
+  "updated_at": "2025-08-12T22:30:06.127445",
   "scale": {
     "type": "frequency",
     "labels": [

@@ -86,6 +86,20 @@
       "category": "Communication style preferences",
       "weight": 1,
       "reverse": false
+    },
+    {
+      "id": 11,
+      "text": "I prioritise punctuality over relationship-building ",
+      "category": "Time and relationship orientation",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 12,
+      "text": "16.\tI make decisions quickly with available information ",
+      "category": "Decision-making approach",
+      "weight": 1,
+      "reverse": false
     }
   ],
   "results": [
@@ -104,7 +118,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-12T22:31:31.506377",
+  "updated_at": "2025-08-12T22:33:56.924429",
   "scale": {
     "type": "frequency",
     "labels": [

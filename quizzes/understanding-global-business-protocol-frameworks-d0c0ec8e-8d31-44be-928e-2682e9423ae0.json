@@ -1,6 +1,6 @@
 {
   "title": "Understanding Global Business Protocol Frameworks",
-  "description": "test",
+  "description": "",
   "questions_per_page": 5,
   "scoring_mode": "category",
   "theme": {
@@ -118,7 +118,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-12T22:58:44.165457",
+  "updated_at": "2025-08-13T21:23:53.563056",
   "scale": {
     "type": "frequency",
     "labels": [
@@ -135,42 +135,42 @@
     "positions": {
       "Communication style preferences": {
         "score": {
-          "x": 70.06752951103344,
-          "y": 31.415686178393905
+          "x": 70.67473370927318,
+          "y": 31.66965449804433
         },
         "description": {
-          "x": 66.66666666666667,
-          "y": 43.333333333333336
+          "x": 57.642152255639104,
+          "y": 41.32374511082138
         }
       },
       "Decision-making approach": {
         "score": {
-          "x": 66.66666666666667,
-          "y": 56.66666666666667
+          "x": 72.55443295739349,
+          "y": 61.08213820078227
         },
         "description": {
-          "x": 66.66666666666667,
-          "y": 76.66666666666667
+          "x": 57.39152568922306,
+          "y": 70.73622881355932
         }
       },
       "Power distance and hierarchy awareness": {
         "score": {
-          "x": 21.06133176569353,
-          "y": 32.06757666079286
+          "x": 21.175986842105264,
+          "y": 31.80003259452412
         },
         "description": {
-          "x": 35.597672617823854,
-          "y": 42.40909263083646
+          "x": 35.46170112781955,
+          "y": 41.845257496740544
         }
       },
       "Time and relationship orientation": {
         "score": {
-          "x": 33.333333333333336,
-          "y": 56.66666666666667
+          "x": 19.296287593984964,
+          "y": 61.86440677966102
         },
         "description": {
-          "x": 33.333333333333336,
-          "y": 76.66666666666667
+          "x": 35.085761278195484,
+          "y": 70.5671447196871
         }
       }
     },

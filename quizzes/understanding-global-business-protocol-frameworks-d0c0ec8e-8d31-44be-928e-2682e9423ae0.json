@@ -96,7 +96,63 @@
     },
     {
       "id": 12,
-      "text": "I make decisions quickly with available information ",
+      "text": "I prefer structured agendas over flexible, organic discussions",
+      "category": "Time and relationship orientation",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 13,
+      "text": "I believe personal relationships should be separate from business ",
+      "category": "Time and relationship orientation",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 14,
+      "text": "I get frustrated when meetings run over their scheduled time",
+      "category": "Time and relationship orientation",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 15,
+      "text": "I prefer to \"get straight to business\" rather than chat first ",
+      "category": "Time and relationship orientation",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 16,
+      "text": "I make decisions quickly with available information",
+      "category": "Decision-making approach",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 17,
+      "text": "I prefer individual accountability over group responsibility ",
+      "category": "Decision-making approach",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 18,
+      "text": "I believe competition between colleagues improves performance",
+      "category": "Decision-making approach",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 19,
+      "text": "I value personal achievements over team harmony",
+      "category": "Decision-making approach",
+      "weight": 1,
+      "reverse": false
+    },
+    {
+      "id": 20,
+      "text": "I speak up immediately when I disagree with a group decision",
       "category": "Decision-making approach",
       "weight": 1,
       "reverse": false
@@ -118,7 +174,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-13T22:11:42.374565",
+  "updated_at": "2025-08-13T22:24:12.980569",
   "scale": {
     "type": "frequency",
     "labels": [

@@ -4,7 +4,7 @@
   "questions_per_page": 5,
   "scoring_mode": "category",
   "theme": {
-    "primary_color": "#3e48cd",
+    "primary_color": "#939aff",
     "bg_color": "#f9fafb",
     "text_color": "#2a2a2a",
     "success_color": "#9d1f8f",
@@ -174,7 +174,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-13T22:32:17.844717",
+  "updated_at": "2025-08-13T22:34:22.294804",
   "scale": {
     "type": "frequency",
     "labels": [

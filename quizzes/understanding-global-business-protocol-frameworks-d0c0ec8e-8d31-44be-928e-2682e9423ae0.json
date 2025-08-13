@@ -174,7 +174,7 @@
   "slug": "understanding-global-business-protocol-frameworks",
   "user_id": "13416142-9b51-4bae-9211-b88056ee3229",
   "created_at": "2025-08-12T21:11:13.070713",
-  "updated_at": "2025-08-13T22:24:59.499746",
+  "updated_at": "2025-08-13T22:29:03.512429",
   "scale": {
     "type": "frequency",
     "labels": [
@@ -195,28 +195,28 @@
           "y": 41.32374511082138
         },
         "score": {
-          "x": 70.67473370927318,
-          "y": 31.66965449804433
+          "x": 70.8000469924812,
+          "y": 31.789846805736637
         }
       },
       "Decision-making approach": {
         "description": {
-          "x": 57.39152568922306,
-          "y": 70.73622881355932
+          "x": 57.642152255639104,
+          "y": 70.67511408083442
         },
         "score": {
-          "x": 72.55443295739349,
-          "y": 61.08213820078227
+          "x": 72.80505952380952,
+          "y": 61.32252281616688
         }
       },
       "Power distance and hierarchy awareness": {
         "description": {
-          "x": 35.46170112781955,
-          "y": 41.845257496740544
+          "x": 35.085761278195484,
+          "y": 41.478569100391134
         },
         "score": {
-          "x": 21.175986842105264,
-          "y": 31.80003259452412
+          "x": 21.301300125313283,
+          "y": 31.659468709256842
         }
       },
       "Time and relationship orientation": {
@@ -226,7 +226,7 @@
         },
         "score": {
           "x": 19.296287593984964,
-          "y": 61.86440677966102
+          "y": 61.97441329856584
         }
       }
     },
@@ -240,88 +240,88 @@
         {
           "min": 20,
           "max": 25,
-          "text": "High score interpretation"
+          "text": "Low power distance preference - You value equality and informal hierarchies"
         },
         {
           "min": 15,
           "max": 19,
-          "text": "Medium-high score interpretation"
+          "text": "Moderate power distance comfort - You adapt to different hierarchy levels"
         },
         {
           "min": 10,
           "max": 14,
-          "text": "Medium-low score interpretation"
+          "text": "High power distance preference - You respect formal structures and authority"
         },
         {
           "min": 0,
           "max": 9,
-          "text": "Low score interpretation"
+          "text": "Very high power distance - You strongly prefer clear hierarchical protocols"
         }
       ],
       "Communication style preferences": [
         {
           "min": 20,
           "max": 25,
-          "text": "High score interpretation"
+          "text": "Very direct communication style - You value explicit, clear messages"
         },
         {
           "min": 15,
           "max": 19,
-          "text": "Medium-high score interpretation"
+          "text": "Moderately direct - You balance directness with context"
         },
         {
           "min": 10,
           "max": 14,
-          "text": "Medium-low score interpretation"
+          "text": "Indirect communication preference - You value subtle communication"
         },
         {
           "min": 0,
           "max": 9,
-          "text": "Low score interpretation"
+          "text": "Very indirect - You strongly prefer context-rich, implicit communication"
         }
       ],
       "Time and relationship orientation": [
         {
           "min": 20,
           "max": 25,
-          "text": "High score interpretation"
+          "text": "Task-focused, monochronic time preference"
         },
         {
           "min": 15,
           "max": 19,
-          "text": "Medium-high score interpretation"
+          "text": "Balanced task and relationship focus"
         },
         {
           "min": 10,
           "max": 14,
-          "text": "Medium-low score interpretation"
+          "text": "Relationship-focused, polychronic time preference"
         },
         {
           "min": 0,
           "max": 9,
-          "text": "Low score interpretation"
+          "text": "Strongly relationship-prioritised approach"
         }
       ],
       "Decision-making approach": [
         {
           "min": 20,
           "max": 25,
-          "text": "High score interpretation"
+          "text": "Individual, quick decision-making preference"
         },
         {
           "min": 15,
           "max": 19,
-          "text": "Medium-high score interpretation"
+          "text": "Flexible decision-making approach"
         },
         {
           "min": 10,
           "max": 14,
-          "text": "Medium-low score interpretation"
+          "text": "Collaborative, consensus-building preference"
         },
         {
           "min": 0,
           "max": 9,
-          "text": "Low score interpretation"
+          "text": "Strong group harmony and collective decision focus"
         }
       ]
     }
